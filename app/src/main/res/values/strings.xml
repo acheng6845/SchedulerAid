@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectAid</string>
+    <string name="speed">Duration</string>
+    <string name="fast">Fast</string>
+    <string name="medium">Medium</string>
+    <string name="slow">Slow</string>
+    <string name="edit">Custom</string>
+    <string name="back">Normal</string>
+    <string name="use_custom_speed">Use Custom Duration</string>
+    <string name="create_node">Create Node</string>
+    <string name="not_clicked">Not Clicked</string>
+    <string name="add_node">Add Node</string>
+    <string name="return_to_paths">Return to Paths</string>
+    <string name="node">Node</string>
+    <string name="prerequisite_nodes"><u>Prerequisite Nodes</u></string>
+</resources>
